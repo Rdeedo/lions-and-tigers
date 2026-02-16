@@ -6,5 +6,5 @@ While the Title is lions-and-tigers, this site has nothing to do with them. This
 
 
 
-This was made following the tutorial made by LearnWebCode (https://www.youtube.com/watch?v=AVmGmLFcukM)
+This was made following the tutorial made by Brad Schiff from LearnWebCode (https://www.youtube.com/watch?v=AVmGmLFcukM)
 
